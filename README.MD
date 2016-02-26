@@ -26,7 +26,7 @@ Usage:
 -----
 
 Once connected to your Gearman Server, call this function with the name you've registered it
-passing the following as parameter. You can dig into the test, for more details.
+passing the following as parameter. You can dig into the tests for more details.
 
 ``` java 
 
