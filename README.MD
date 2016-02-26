@@ -12,7 +12,7 @@ Installation:
 ----
 
 Before compiling the code you might need to change ElasticSearch connection settings,
-please modify do this via the utility class [SharedTransport]()
+please modify do this via the utility class [SharedTransport](https://github.com/janselr/cache-clean-dsl/blob/master/src/main/groovy/com/jvra/ocache/es/util/SharedTransport.java)
 
 ``` java
 

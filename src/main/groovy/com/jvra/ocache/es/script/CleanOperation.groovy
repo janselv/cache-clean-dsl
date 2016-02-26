@@ -4,9 +4,6 @@ import com.jvra.ocache.es.CacheOperation
 import com.jvra.ocache.es.OperationExecutionException
 import com.jvra.ocache.es.util.SharedTransport
 import com.testpoke.common.module.config.ElasticSearchConfig
-import com.testpoke.gm.functions.tso.es.CacheOperation
-import com.testpoke.gm.functions.tso.es.OperationExecutionException
-import com.testpoke.gm.functions.tso.es.util.SharedTransport
 import groovy.transform.CompileStatic
 import groovy.transform.PackageScope
 import org.apache.log4j.Logger
