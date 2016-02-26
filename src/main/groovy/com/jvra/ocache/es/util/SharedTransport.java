@@ -1,6 +1,5 @@
 package com.jvra.ocache.es.util;
 
-import com.testpoke.common.module.config.ElasticSearchConfig;
 import org.apache.log4j.Logger;
 import org.elasticsearch.client.Client;
 import org.elasticsearch.client.transport.TransportClient;

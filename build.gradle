@@ -34,7 +34,6 @@ publishing {
 }
 
 dependencies{
-    compile libs.moduleConfig
     compile libs.elasticSearch
     compile libs.spock
     compile libs.groovy
