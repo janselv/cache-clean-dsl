@@ -14,7 +14,6 @@ ext {
     libs = [
             groovy: "org.codehaus.groovy:groovy:${groovyVersion}",
             spock : "org.spockframework:spock-core:${spockVersion}",
-            commandLine: "com.testpoke.common-libs:command-line:${commonLibsVersion}",
             osConfig: "com.testpoke.common-libs:os-config:${commonLibsVersion}",
             gson:"com.google.code.gson:gson:${gsonVersion}",
             log4j:"log4j:log4j:${log4jVersion}",
